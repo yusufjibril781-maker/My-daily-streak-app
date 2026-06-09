@@ -1,0 +1,6 @@
+{
+  "name": "Wolf Streak",
+  "description": "ADHD-friendly daily consistency tracker for Math Study, Python Practice, and Electronics Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
